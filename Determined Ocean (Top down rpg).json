@@ -677,6 +677,94 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Foliage Pack (100 assets)/Plant/f5f48441be0d16934fd43f760dc64a61dadde9ee9b4705de7876b76a39d6cd1f_Big green tree 4.png",
           "name": "Big green tree 4.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewTiledSprite2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/trash bag_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "trash bag_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric City Pack/props/cab34ca4205c6ad7501be0244c294e921906d75b099b629a1de3c55730c3627b_trash bag_a.png",
+          "name": "trash bag_a.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/trash bag_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "trash bag_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric City Pack/props/9a5739618cec317b74336dbde6192f572a1eebe8ebccfc36384139350f3e207d_trash bag_b.png",
+          "name": "trash bag_b.png"
+        }
+      },
+      {
+        "file": "assets/MPLUS1p-ExtraBold.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "9bf5e100819cd6d0fd92481cdb1282f88a48e49dfb3709df8015e0cd37de8fb4_MPLUS1p-ExtraBold.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Google Fonts/Japanese/9bf5e100819cd6d0fd92481cdb1282f88a48e49dfb3709df8015e0cd37de8fb4_MPLUS1p-ExtraBold.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Ghost Town.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "55ea0c2124e0ea6901bd11c51593809569d949c7c59b678932f02b2623c65a78_Ghost Town.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Comedy/55ea0c2124e0ea6901bd11c51593809569d949c7c59b678932f02b2623c65a78_Ghost Town.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Walk_01.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "9e6c1c3f9594ea0796b8bbd636507bfe04625bc14344d5fc2a673e0da51030d7_Walk_01.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/SoundEffects/Footsteps/DirtyGround/Walk/9e6c1c3f9594ea0796b8bbd636507bfe04625bc14344d5fc2a673e0da51030d7_Walk_01.wav",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Jump_Land_02.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "afc913f2f6ebeaec6beee8473f0994012aec8e37e9fa3225a72a5b8851df4ae8_Jump_Land_02.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/SoundEffects/Footsteps/Sand/Jump/afc913f2f6ebeaec6beee8473f0994012aec8e37e9fa3225a72a5b8851df4ae8_Jump_Land_02.wav",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -745,7 +833,20 @@
     ]
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "TrashCollected",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "folded": true,
+      "name": "FootSounds",
+      "type": "number",
+      "value": 0
+    }
+  ],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,

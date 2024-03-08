@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.2,
     "snap": false,
-    "zoomFactor": 0.5690468466185522,
+    "zoomFactor": 0.5151561018659779,
     "windowMask": false
   },
   "objectsGroups": [
@@ -106,21 +106,6 @@
     },
     {
       "angle": 0,
-      "customSize": true,
-      "height": 16,
-      "layer": "",
-      "name": "E",
-      "persistentUuid": "f3745d28-ecfe-4aa1-ad5d-c3d0ed30886e",
-      "width": 16,
-      "x": 678,
-      "y": 185,
-      "zOrder": 600,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": false,
       "height": 0,
       "layer": "Transition",
@@ -176,7 +161,7 @@
       "width": 0,
       "x": 721,
       "y": 305,
-      "zOrder": 511,
+      "zOrder": 2100,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -217,22 +202,6 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 341,
-      "layer": "",
-      "name": "Road1",
-      "persistentUuid": "fedb0358-c5fc-4dad-b0c5-308ad7b94133",
-      "width": 31,
-      "x": 387,
-      "y": 17,
-      "zOrder": 2002,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
       "height": 29,
       "layer": "",
       "name": "Road1",
@@ -240,7 +209,7 @@
       "width": 291,
       "x": 418,
       "y": 35,
-      "zOrder": 2003,
+      "zOrder": 6,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -382,8 +351,8 @@
       "name": "NewTiledSprite",
       "persistentUuid": "b719d001-9d19-4f88-90dd-b3b24f270cec",
       "width": 1288,
-      "x": -2,
-      "y": 6,
+      "x": -6,
+      "y": -10,
       "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
@@ -666,6 +635,729 @@
       "x": 809,
       "y": 168,
       "zOrder": 2015,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "2d3d25ab-9c45-4dcf-b3e2-8ef46175a5eb",
+      "width": 46,
+      "x": 613,
+      "y": 89,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 61,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "1039204d-457f-4bce-87ef-f0df8b339b82",
+      "width": 46,
+      "x": 620,
+      "y": 193,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "96dc1209-4f04-4dc6-811e-6c8cf8fe5db7",
+      "width": 46,
+      "x": 629,
+      "y": 278,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "235bc20d-28a8-4d8f-9859-b933f2ef6d59",
+      "width": 46,
+      "x": 793,
+      "y": 165,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "68acc8be-3675-4b22-9e4c-cfd34c2cab69",
+      "width": 46,
+      "x": 525,
+      "y": 81,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "a2dda526-30ab-4814-aa0e-e0b7ba7e04cc",
+      "width": 46,
+      "x": 540,
+      "y": 189,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "cb12998d-e128-4fb0-b9f0-9442bfe9abde",
+      "width": 46,
+      "x": 562,
+      "y": 271,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "c1118666-cf8e-4b95-b69e-3aeb1103f5d3",
+      "width": 46,
+      "x": 504,
+      "y": 274,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 67,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "7168d8c5-2a4c-447d-bc3d-763c6a5f6765",
+      "width": 43,
+      "x": 431,
+      "y": 250,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "3bc9b197-ce36-42b2-8f08-57c510badc45",
+      "width": 46,
+      "x": 443,
+      "y": 85,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "ec38d47b-70d7-4da2-9606-5bd49ce1090e",
+      "width": 46,
+      "x": 486,
+      "y": 130,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "e8a045ea-1380-419c-8a2f-2124f3938e56",
+      "width": 46,
+      "x": 442,
+      "y": 183,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "361fd6fd-7e9e-45a5-8320-0d0d6e8e741c",
+      "width": 46,
+      "x": 259,
+      "y": 128,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 64,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "bded1484-9c79-4e1d-a7a8-2030250950da",
+      "width": 46,
+      "x": 186,
+      "y": 175,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "7f2fcc0b-1642-4e54-80ff-418bb4cc7533",
+      "width": 46,
+      "x": 935,
+      "y": 373,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "4c059627-ea9c-4b23-9402-1740babb3e17",
+      "width": 46,
+      "x": 711,
+      "y": 463,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "af540061-e195-42f8-8385-59a038b4977d",
+      "width": 46,
+      "x": 926,
+      "y": 85,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "d3de74a2-6030-4a97-8cb5-7afba2bf2e82",
+      "width": 46,
+      "x": 1025,
+      "y": 326,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "c308c95c-bdfd-4553-ab5b-66678e864abe",
+      "width": 46,
+      "x": 1130,
+      "y": 143,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 112,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "51e9c286-0c36-4687-93eb-87b2d79820be",
+      "width": 156,
+      "x": 766,
+      "y": 408,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 112,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "e50c7b3b-92be-498b-b614-df7e1acaf4ef",
+      "width": 156,
+      "x": 872,
+      "y": 211,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 77,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "1001e4aa-1732-44dd-8e30-e5f74e9f2014",
+      "width": 129,
+      "x": 1106,
+      "y": 265,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 77,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "244f83d2-9dac-4e0d-ae1d-a23cab7deef0",
+      "width": 129,
+      "x": 789,
+      "y": 58,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 77,
+      "layer": "",
+      "name": "CollisionObject",
+      "persistentUuid": "7fd8f651-db01-46cd-8ad8-8f4d6788134b",
+      "width": 129,
+      "x": 141,
+      "y": 78,
+      "zOrder": 2016,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "layer": "",
+      "name": "Road1",
+      "persistentUuid": "f69bbc0e-091c-47d1-9507-906a11f1a1d3",
+      "width": 380,
+      "x": 332,
+      "y": 16,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 368,
+      "layer": "",
+      "name": "Road1",
+      "persistentUuid": "e22c7870-35de-4123-b961-df864d2c4f96",
+      "width": 32,
+      "x": 325,
+      "y": 17,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "layer": "",
+      "name": "Road1",
+      "persistentUuid": "5220897c-6d81-4799-9b9b-d286dff41f6b",
+      "width": 163,
+      "x": 703,
+      "y": 217,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 77,
+      "layer": "",
+      "name": "Road1",
+      "persistentUuid": "b9366add-f467-4965-905f-107951fcdb68",
+      "width": 32,
+      "x": 836,
+      "y": 161,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "layer": "",
+      "name": "Road1",
+      "persistentUuid": "dabd0ba8-5fd4-4c5e-8d1d-3b107d74970e",
+      "width": 187,
+      "x": 862,
+      "y": 160,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 163,
+      "layer": "",
+      "name": "Road1",
+      "persistentUuid": "09086b2f-fe61-4ba2-9e9f-85e929edcaef",
+      "width": 32,
+      "x": 1041,
+      "y": 155,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "TrashBag",
+      "persistentUuid": "b87e8f2d-14d1-4e35-a80c-45d7c73b1332",
+      "width": 0,
+      "x": 1112,
+      "y": 159,
+      "zOrder": 2101,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "TrashBag",
+      "persistentUuid": "c87f95c4-e62b-4e17-80b2-e82923baad08",
+      "width": 0,
+      "x": 1110,
+      "y": 188,
+      "zOrder": 2102,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "TrashBag",
+      "persistentUuid": "81129728-dba5-4de3-9c3b-b778309643fd",
+      "width": 0,
+      "x": 980,
+      "y": 123,
+      "zOrder": 2103,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "TrashBag",
+      "persistentUuid": "95c61a21-2ae4-4953-aac6-c68dc85de93e",
+      "width": 0,
+      "x": 980,
+      "y": 92,
+      "zOrder": 2104,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "TrashBag",
+      "persistentUuid": "c92a965c-ed55-41f9-9385-684d9e4106e6",
+      "width": 0,
+      "x": 1089,
+      "y": 360,
+      "zOrder": 2105,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "TrashBag",
+      "persistentUuid": "2e4aa4dc-644f-4e40-95d1-987c492aa306",
+      "width": 0,
+      "x": 1083,
+      "y": 327,
+      "zOrder": 2106,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 175,
+      "layer": "",
+      "name": "Road1",
+      "persistentUuid": "7a2aa8f8-748b-4b6f-a7e8-36440c7d8b10",
+      "width": 32,
+      "x": 669,
+      "y": 353,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "TrashBag",
+      "persistentUuid": "c3810ec9-3983-4843-b1ac-d84a68bd2ee5",
+      "width": 0,
+      "x": 740,
+      "y": 440,
+      "zOrder": 2107,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "TrashBag",
+      "persistentUuid": "cf931362-de55-451d-a719-bcbac5aaece6",
+      "width": 0,
+      "x": 716,
+      "y": 440,
+      "zOrder": 2108,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "layer": "",
+      "name": "Road1",
+      "persistentUuid": "c7afebd9-72f3-425d-a17c-d2fc0d569f13",
+      "width": 163,
+      "x": 577,
+      "y": 153,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "TrashBag",
+      "persistentUuid": "a8d819e3-9154-4ffa-8a69-456f2b1f66ce",
+      "width": 0,
+      "x": 542,
+      "y": 164,
+      "zOrder": 2109,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "TrashBag",
+      "persistentUuid": "71db440e-df2c-400d-bcd9-3e0b67a1dcba",
+      "width": 0,
+      "x": 544,
+      "y": 145,
+      "zOrder": 2110,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "layer": "",
+      "name": "Road1",
+      "persistentUuid": "7d4c9a47-bfd5-47bc-9a81-6d2d0d6f081c",
+      "width": 113,
+      "x": 246,
+      "y": 202,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "TrashBag",
+      "persistentUuid": "d3621da8-e8d0-4613-8e50-bf2f9f1c2bdc",
+      "width": 0,
+      "x": 264,
+      "y": 242,
+      "zOrder": 2111,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "TrashBag",
+      "persistentUuid": "cb2a4843-eae7-476a-b71e-4016dbd43644",
+      "width": 0,
+      "x": 293,
+      "y": 240,
+      "zOrder": 2112,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Follow",
+      "name": "Score",
+      "persistentUuid": "0768f85c-def8-44c3-a277-5d397d8d667e",
+      "width": 0,
+      "x": 971,
+      "y": 3,
+      "zOrder": 2113,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2262,6 +2954,174 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "CollisionObject",
+      "texture": "NewTiledSprite2",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "canBeGrabbed": true,
+          "name": "Platform",
+          "platformType": "NormalPlatform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "yGrabOffset": 0
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "900252e41ff03d23b845defb2e165d76d09d90d26621c904fe48be75c0e470ae",
+      "name": "TrashBag",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "a",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "trash bag_a.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 13,
+                        "y": 0
+                      },
+                      {
+                        "x": 13,
+                        "y": 14
+                      },
+                      {
+                        "x": 0,
+                        "y": 14
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "b",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "trash bag_b.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 13,
+                        "y": 0
+                      },
+                      {
+                        "x": 13,
+                        "y": 14
+                      },
+                      {
+                        "x": 0,
+                        "y": 14
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Score",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Your Score : ",
+      "font": "9bf5e100819cd6d0fd92481cdb1282f88a48e49dfb3709df8015e0cd37de8fb4_MPLUS1p-ExtraBold.ttf",
+      "textAlignment": "left",
+      "characterSize": 40,
+      "color": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Your Score : ",
+        "font": "9bf5e100819cd6d0fd92481cdb1282f88a48e49dfb3709df8015e0cd37de8fb4_MPLUS1p-ExtraBold.ttf",
+        "textAlignment": "left",
+        "characterSize": 40,
+        "color": "255;255;255"
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -2314,6 +3174,9 @@
         "objectName": "GreenHouse1"
       },
       {
+        "objectName": "CollisionObject"
+      },
+      {
         "objectName": "RedHouse1"
       },
       {
@@ -2327,6 +3190,12 @@
       },
       {
         "objectName": "BigGreenTree4"
+      },
+      {
+        "objectName": "TrashBag"
+      },
+      {
+        "objectName": "Score"
       }
     ]
   },
@@ -2399,6 +3268,28 @@
           "parameters": [
             "",
             "\"Collision\""
+          ]
+        },
+        {
+          "type": {
+            "value": "SeparateFromObjects"
+          },
+          "parameters": [
+            "Player",
+            "CollisionObject",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "55ea0c2124e0ea6901bd11c51593809569d949c7c59b678932f02b2623c65a78_Ghost Town.aac",
+            "",
+            "25",
+            "1"
           ]
         }
       ],
@@ -2543,6 +3434,12 @@
                     "TopDownMovement",
                     "\"Up\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -2571,6 +3468,12 @@
                     "TopDownMovement",
                     "\"Down\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -2599,6 +3502,12 @@
                     "TopDownMovement",
                     "\"Right\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -2627,6 +3536,12 @@
                     "TopDownMovement",
                     "\"Left\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -3021,6 +3936,254 @@
         }
       ],
       "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "SeparateFromObjects"
+          },
+          "parameters": [
+            "Player",
+            "CollisionObject",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "CollisionObject"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "Player",
+            "TrashBag",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "TrashBag",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "TrashCollected",
+            "+",
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+          },
+          "parameters": [
+            "Score",
+            "Text",
+            "=",
+            "\"Your Score :\" + GlobalVariableString(TrashCollected)"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "afc913f2f6ebeaec6beee8473f0994012aec8e37e9fa3225a72a5b8851df4ae8_Jump_Land_02.wav",
+            "",
+            "50",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "TopDownMovementBehavior::IsMoving"
+          },
+          "parameters": [
+            "Player",
+            "TopDownMovement"
+          ]
+        }
+      ],
+      "actions": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Sprite"
+              },
+              "parameters": [
+                "Player",
+                "=",
+                "2"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "FootSounds",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Sprite"
+              },
+              "parameters": [
+                "Player",
+                "=",
+                "4"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarGlobal"
+              },
+              "parameters": [
+                "FootSounds",
+                "=",
+                "2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "VarGlobal"
+          },
+          "parameters": [
+            "FootSounds",
+            "=",
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "9e6c1c3f9594ea0796b8bbd636507bfe04625bc14344d5fc2a673e0da51030d7_Walk_01.wav",
+            "no",
+            "100",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "VarGlobal"
+          },
+          "parameters": [
+            "FootSounds",
+            "=",
+            "2"
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "9e6c1c3f9594ea0796b8bbd636507bfe04625bc14344d5fc2a673e0da51030d7_Walk_01.wav",
+            "no",
+            "100",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "ModVarGlobal"
+          },
+          "parameters": [
+            "FootSounds",
+            "=",
+            "0"
+          ]
+        }
+      ]
     }
   ],
   "layers": [
@@ -3119,6 +4282,39 @@
       "visibility": true,
       "cameras": [],
       "effects": []
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "Follow",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
     }
   ],
   "behaviorsSharedData": [
@@ -3149,6 +4345,10 @@
     {
       "name": "Opacity",
       "type": "OpacityCapability::OpacityBehavior"
+    },
+    {
+      "name": "Platform",
+      "type": "PlatformBehavior::PlatformBehavior"
     },
     {
       "name": "Resizable",
