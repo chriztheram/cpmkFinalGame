@@ -1,8 +1,8 @@
 {
   "b": 209,
   "disableInputWhenNotFocused": true,
-  "mangledName": "Overworld",
-  "name": "Overworld",
+  "mangledName": "First_32Town",
+  "name": "First Town",
   "r": 209,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
@@ -3629,7 +3629,8 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "name": "Dialogue",
+      "folded": true,
+      "name": "Sound/Collection",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [
@@ -3849,7 +3850,7 @@
                       },
                       "parameters": [
                         "",
-                        "\"Battle\""
+                        "\"Sleep/Home\""
                       ]
                     }
                   ]

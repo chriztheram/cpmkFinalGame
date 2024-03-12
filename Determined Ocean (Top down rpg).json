@@ -765,6 +765,15 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/SoundEffects/Footsteps/Sand/Jump/afc913f2f6ebeaec6beee8473f0994012aec8e37e9fa3225a72a5b8851df4ae8_Jump_Land_02.wav",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewTiledSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite3",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -850,11 +859,15 @@
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/overworld"
+      "referenceTo": "/layouts/first-town"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/battle"
+      "referenceTo": "/layouts/sleephome"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/next-town"
     }
   ],
   "externalEvents": [],
