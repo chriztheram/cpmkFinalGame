@@ -774,6 +774,158 @@
         "name": "NewTiledSprite3",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bed white_a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bed white_a.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/651a0064c71c6d292fc1605f3142afadcc21f209fc168c645908a42f3b552fad_bed white_a.png",
+          "name": "bed white_a.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bed white_b.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bed white_b.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric Interiors Pack/Furniture/d954013d13cccb6651364c613a70769f418b87947d5c1c6a80501f8671c009a9_bed white_b.png",
+          "name": "bed white_b.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewTiledSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "assets/Bed Double.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Bed Double.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Furniture/furniture/e068ca89d9972b95f41711a72c47748dfbc18e7b728dc96319ce04089cd81dbc_Bed Double.glb",
+          "name": "Bed Double.glb"
+        }
+      },
+      {
+        "file": "assets/Counter Sink.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Counter Sink.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Sushi Restaurant/Furniture/ab1537ceecc4d6b57c828994e78455b2f1b40d093682a30dc9505b7369aa0bff_Counter Sink.glb",
+          "name": "Counter Sink.glb"
+        }
+      },
+      {
+        "file": "assets/Kitchen Fridge.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Kitchen Fridge.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Furniture/device/871c7d187cb4490017ec7f1ca7d8e03bef5af082d1d7e6ae511151629eaac7cc_Kitchen Fridge.glb",
+          "name": "Kitchen Fridge.glb"
+        }
+      },
+      {
+        "file": "assets/Cabinet Bed.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Cabinet Bed.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Furniture/furniture/fbd8a3ae165fb1ab23245b47fee8dcbedc2b350370078fc083064afc6953bdb6_Cabinet Bed.glb",
+          "name": "Cabinet Bed.glb"
+        }
+      },
+      {
+        "file": "assets/Bookcase Closed.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Bookcase Closed.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Furniture/furniture/8fc1c3aaf24bcab923c87508de6ed2a3876e77e74e18d70508444384c49d0d8a_Bookcase Closed.glb",
+          "name": "Bookcase Closed.glb"
+        }
+      },
+      {
+        "file": "assets/Kitchen Cabinet Upper Corner.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Kitchen Cabinet Upper Corner.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Furniture/furniture/4ecf17038d82ba77c6b50be7c3f6c46cbab3f0349b539ec38aedc1721c67e8bc_Kitchen Cabinet Upper Corner.glb",
+          "name": "Kitchen Cabinet Upper Corner.glb"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Icon Background_Dark Wood.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "74288ffdafa8785eae1d2f9aea454acea55352176be25ffc927d5d6eee31972f_Icon Background_Dark Wood.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icon Background/74288ffdafa8785eae1d2f9aea454acea55352176be25ffc927d5d6eee31972f_Icon Background_Dark Wood.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Wood Background_all_64.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cde7121802cd226997240e3941fbaf9193a225e5ffff40cc849e918047959711_9patch_Wood Background_all_64.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Tile Sets/Wood Background/cde7121802cd226997240e3941fbaf9193a225e5ffff40cc849e918047959711_9patch_Wood Background_all_64.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/MPLUS1p-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "72daf4dcb53d21803dfb807249302a05c8875978706bda48a6a9770a5cdaa608_MPLUS1p-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Google Fonts/Japanese/72daf4dcb53d21803dfb807249302a05c8875978706bda48a6a9770a5cdaa608_MPLUS1p-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/07 - the town where i got the magic bottle (chiptune).aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "2fcc3ba83d5dc889db171f33bd30a9888bb609d397fcba47ac4bb56ef3353492_07 - the town where i got the magic bottle (chiptune).aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Ragnar Random/Fakebit Chiptune Music/2fcc3ba83d5dc889db171f33bd30a9888bb609d397fcba47ac4bb56ef3353492_07 - the town where i got the magic bottle (chiptune).aac",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -859,7 +1011,19 @@
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/main-menu"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/explanation-scene"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/first-town"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/congrats-on-finishing-level"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
@@ -872,6 +1036,10 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/buttonstates"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/spritemultitouchjoystick"

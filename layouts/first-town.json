@@ -346,13 +346,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 709,
+      "height": 720,
       "layer": "",
       "name": "NewTiledSprite",
       "persistentUuid": "b719d001-9d19-4f88-90dd-b3b24f270cec",
-      "width": 1288,
+      "width": 1290,
       "x": -6,
-      "y": -10,
+      "y": 1,
       "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
@@ -4182,6 +4182,33 @@
             "FootSounds",
             "=",
             "0"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "VarGlobal"
+          },
+          "parameters": [
+            "TrashCollected",
+            "=",
+            "12"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Congrats On Finishing Level\"",
+            ""
           ]
         }
       ]

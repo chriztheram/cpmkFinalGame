@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.546875,
+    "zoomFactor": 2.060679135269523,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -33,8 +33,8 @@
       "name": "Floor",
       "persistentUuid": "9440f730-2845-4bbd-a953-51c933db9dd2",
       "width": 1280,
-      "x": 1,
-      "y": 1,
+      "x": 31,
+      "y": 0,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -48,8 +48,248 @@
       "name": "Player",
       "persistentUuid": "0fd45f9b-8d16-45f1-8d44-8d86740f43e4",
       "width": 0,
-      "x": 788,
-      "y": 508,
+      "x": 659,
+      "y": 385,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "layer": "",
+      "name": "Collision_Object",
+      "persistentUuid": "754a6d76-2011-49c9-b985-c769bbf7d1ed",
+      "width": 356,
+      "x": 475,
+      "y": 262,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 229,
+      "layer": "",
+      "name": "Collision_Object",
+      "persistentUuid": "c9083cde-795e-496e-8e52-c18a672be316",
+      "width": 32,
+      "x": 819,
+      "y": 250,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "layer": "",
+      "name": "Collision_Object",
+      "persistentUuid": "c24b123e-b788-450b-95f6-f3f079c69dd1",
+      "width": 387,
+      "x": 474,
+      "y": 466,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 199,
+      "layer": "",
+      "name": "Collision_Object",
+      "persistentUuid": "68f827cb-6bba-4209-a272-d05dfbee39cb",
+      "width": 32,
+      "x": 468,
+      "y": 279,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 62,
+      "height": 57,
+      "layer": "",
+      "name": "BedDouble",
+      "persistentUuid": "5c46030e-8de2-41b0-a1f7-5383233dc042",
+      "width": 37,
+      "x": 745,
+      "y": 355,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 180,
+      "customSize": true,
+      "depth": 68,
+      "height": 44,
+      "layer": "",
+      "name": "CounterSink",
+      "persistentUuid": "80048f58-0265-453c-ab43-381a22222fc9",
+      "width": 17,
+      "x": 550,
+      "y": 317,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 271,
+      "customSize": true,
+      "depth": 61,
+      "height": 19,
+      "layer": "",
+      "name": "KitchenFridge",
+      "persistentUuid": "3a302a8f-8bd1-4547-a175-4c6a6d0ad8d8",
+      "width": 28,
+      "x": 554,
+      "y": 373,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 39,
+      "height": 18,
+      "layer": "",
+      "name": "CabinetBed",
+      "persistentUuid": "d6ec36fe-be71-401f-832d-8bc35cba8fcb",
+      "width": 18,
+      "x": 721,
+      "y": 312,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 270,
+      "customSize": true,
+      "depth": 64,
+      "height": 15,
+      "layer": "",
+      "name": "KitchenCabinetUpperCorner",
+      "persistentUuid": "693a5d1c-536c-43b7-af5d-ac6a388a1b61",
+      "width": 19,
+      "x": 553,
+      "y": 394,
+      "zOrder": 13,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 359,
+      "customSize": true,
+      "depth": 88,
+      "height": 26,
+      "layer": "",
+      "name": "BookcaseClosed",
+      "persistentUuid": "f4166942-10da-4047-a2b4-c168a3c04a23",
+      "width": 42,
+      "x": 634,
+      "y": 320,
+      "zOrder": 14,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 36,
+      "layer": "",
+      "name": "Collision_Object",
+      "persistentUuid": "5a482ba6-387e-4032-8152-afb66aa5f4e3",
+      "width": 32,
+      "x": 721,
+      "y": 281,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 65,
+      "layer": "",
+      "name": "Collision_Object",
+      "persistentUuid": "a6f8e41c-1308-4149-9595-32d899c1a159",
+      "width": 56,
+      "x": 741,
+      "y": 294,
+      "zOrder": 16,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 32,
+      "layer": "",
+      "name": "Collision_Object",
+      "persistentUuid": "875327b4-4179-4a8b-a1d0-075c4648b8d0",
+      "width": 49,
+      "x": 631,
+      "y": 291,
+      "zOrder": 17,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 105,
+      "layer": "",
+      "name": "Collision_Object",
+      "persistentUuid": "7fc3d81e-f8e3-4d9e-9669-b83bd38693c5",
+      "width": 32,
+      "x": 530,
+      "y": 292,
+      "zOrder": 18,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 189,
+      "layer": "",
+      "name": "NewTiledSprite2",
+      "persistentUuid": "af1b68c7-67d6-47b2-a3d6-f428ed709137",
+      "width": 340,
+      "x": 480,
+      "y": 282,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -727,6 +967,160 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "Collision_Object",
+      "texture": "NewTiledSprite4",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "949268e82ba35de8fbf1b7779c9cdb9e8c538c40d527285927dc0dad3319c6f8",
+      "name": "BedDouble",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 186,
+        "height": 186,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Bed Double.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 90,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 186,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "c30f647bd1274840740d83c0b95716687281fc4bc1a1cea819bd3a5bd532e78c",
+      "name": "CounterSink",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 120,
+        "height": 120,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Counter Sink.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 90,
+        "rotationY": 0,
+        "rotationZ": 90,
+        "width": 120,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "e6ed4acfdca505de09f414f94abdb6f7975ea9faa69455104e31aedf1704fd45",
+      "name": "KitchenFridge",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 152,
+        "height": 152,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Kitchen Fridge.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 90,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 152,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "84b0096f88a3597a371a7196250d2aab57f8f4b93c556fb864a9b95f4346af3e",
+      "name": "CabinetBed",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 44,
+        "height": 44,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Cabinet Bed.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 90,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 44,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "1339623b98241202b4da7eff1a643d652752fa2afdc1bc14bf1a86a0c8a7e97e",
+      "name": "BookcaseClosed",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 140,
+        "height": 140,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Bookcase Closed.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 90,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 140,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "39030cad47f97b7dce1a6d3cca8b452daf3c525b3d64f2e1acbf960d69fb2d7d",
+      "name": "KitchenCabinetUpperCorner",
+      "type": "Scene3D::Model3DObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "centerLocation": "ModelOrigin",
+        "depth": 64,
+        "height": 64,
+        "keepAspectRatio": true,
+        "materialType": "StandardWithoutMetalness",
+        "modelResourceName": "Kitchen Cabinet Upper Corner.glb",
+        "originLocation": "ModelOrigin",
+        "rotationX": 90,
+        "rotationY": 0,
+        "rotationZ": 0,
+        "width": 64,
+        "animations": []
+      }
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "NewTiledSprite2",
+      "texture": "cde7121802cd226997240e3941fbaf9193a225e5ffff40cc849e918047959711_9patch_Wood Background_all_64.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
     }
   ],
   "objectsFolderStructure": {
@@ -736,7 +1130,31 @@
         "objectName": "Floor"
       },
       {
+        "objectName": "NewTiledSprite2"
+      },
+      {
+        "objectName": "Collision_Object"
+      },
+      {
+        "objectName": "BedDouble"
+      },
+      {
         "objectName": "Player"
+      },
+      {
+        "objectName": "CounterSink"
+      },
+      {
+        "objectName": "KitchenFridge"
+      },
+      {
+        "objectName": "CabinetBed"
+      },
+      {
+        "objectName": "BookcaseClosed"
+      },
+      {
+        "objectName": "KitchenCabinetUpperCorner"
       }
     ]
   },
@@ -791,7 +1209,7 @@
           },
           "parameters": [
             "",
-            "55ea0c2124e0ea6901bd11c51593809569d949c7c59b678932f02b2623c65a78_Ghost Town.aac",
+            "2fcc3ba83d5dc889db171f33bd30a9888bb609d397fcba47ac4bb56ef3353492_07 - the town where i got the magic bottle (chiptune).aac",
             "",
             "25",
             "1"
@@ -1215,7 +1633,26 @@
     {
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [],
-      "actions": []
+      "actions": [
+        {
+          "type": {
+            "value": "SeparateFromObjects"
+          },
+          "parameters": [
+            "Player",
+            "Collision_Object",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Cache"
+          },
+          "parameters": [
+            "Collision_Object"
+          ]
+        }
+      ]
     }
   ],
   "layers": [
@@ -1280,6 +1717,10 @@
     {
       "name": "Flippable",
       "type": "FlippableCapability::FlippableBehavior"
+    },
+    {
+      "name": "Object3D",
+      "type": "Scene3D::Base3DBehavior"
     },
     {
       "name": "Opacity",
