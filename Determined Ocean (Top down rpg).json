@@ -926,6 +926,63 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Ragnar Random/Fakebit Chiptune Music/2fcc3ba83d5dc889db171f33bd30a9888bb609d397fcba47ac4bb56ef3353492_07 - the town where i got the magic bottle (chiptune).aac",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/road_xing damaged.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "road_xing damaged.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric City Pack/road/08b6313f7860746c0ea6385c857d3c5919f892cea609db3a902f0c582472ff7c_road_xing damaged.png",
+          "name": "road_xing damaged.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/road_xing normal.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "road_xing normal.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Isometric City Pack/road/125d6319e4416b61d775652dc1dad71fbe94b4bb066c478c6dc9355388c8165b_road_xing normal.png",
+          "name": "road_xing normal.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewTiledSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "assets/House Type 02.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "House Type 02.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Suburban City/Building/0b59dd9ea076eb7d93efc7edef9380e0532530cfcfa7f446e547370f475cec93_House Type 02.glb",
+          "name": "House Type 02.glb"
+        }
+      },
+      {
+        "file": "assets/House Type 11.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "House Type 11.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Suburban City/Building/f02f7bf8ec74f292520be5992b7bceb6f6c594a37104c1a5e5813f42ba2a224f_House Type 11.glb",
+          "name": "House Type 11.glb"
+        }
       }
     ],
     "resourceFolders": []
@@ -1006,6 +1063,12 @@
       "name": "FootSounds",
       "type": "number",
       "value": 0
+    },
+    {
+      "folded": true,
+      "name": "Time",
+      "type": "number",
+      "value": 0
     }
   ],
   "layouts": [
@@ -1031,7 +1094,35 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/next-town"
+      "referenceTo": "/layouts/progression1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/second-town"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/finished-second-level"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/sleephome2"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/progression2"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/final-town"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/lost-screen"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/end-credits"
     }
   ],
   "externalEvents": [],

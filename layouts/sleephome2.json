@@ -1,8 +1,8 @@
 {
   "b": 209,
   "disableInputWhenNotFocused": true,
-  "mangledName": "Sleep_47Home",
-  "name": "Sleep/Home",
+  "mangledName": "Sleep_47Home2",
+  "name": "Sleep/Home2",
   "r": 209,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
@@ -1843,7 +1843,7 @@
           },
           "parameters": [
             "",
-            "\"Progression1\"",
+            "\"Progression2\"",
             ""
           ]
         }
